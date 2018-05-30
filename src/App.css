@@ -18,8 +18,18 @@
   font-size: 1.5em;
 }
 
-.App-intro {
-  font-size: large;
+.ListDiv {
+  border: solid dodgerblue 5px
+}
+
+.DoneDiv {
+  margin-top: 50px;
+  border: solid blueviolet 5px
+}
+
+body {
+  background-color: black;
+  color: white
 }
 
 @keyframes App-logo-spin {
